@@ -1,0 +1,8 @@
+# Kotlin Examples
+Miscellaneous examples in Kotlin as standalone Gradle projects.
+
+## graphql-ktor
+A mock GraphQL service running on Ktor.
+
+Uses graphql-java for the underlying engine without Spring or any dependency injection.
+Showcases how Kotlin's builder and extension syntax can be used to simplify wiring of resolvers.
